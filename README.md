@@ -1,0 +1,2 @@
+# TecnicasProg
+Triangulo
